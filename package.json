@@ -1,5 +1,5 @@
 {
-  "name": "test",
+  "name": "testpackage_demo",
   "version": "1.0.0",
   "description": "a test package",
   "main": "index.js",
